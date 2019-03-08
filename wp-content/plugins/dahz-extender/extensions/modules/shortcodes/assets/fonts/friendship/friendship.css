@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'friendship';
+  src:  url('friendship.eot?g466er');
+  src:  url('friendship.eot?g466er#iefix') format('embedded-opentype'),
+    url('friendship.ttf?g466er') format('truetype'),
+    url('friendship.woff?g466er') format('woff'),
+    url('friendship.svg?g466er#friendship') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="friendship-de-"], [class*=" friendship-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'friendship' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.friendship-de-friends:before {
+  content: "\e900";
+}
+.friendship-de-flower:before {
+  content: "\e901";
+}
+.friendship-de-smartphone:before {
+  content: "\e902";
+}
+.friendship-de-handshake:before {
+  content: "\e903";
+}
+.friendship-de-friends-1:before {
+  content: "\e904";
+}
+.friendship-de-chat:before {
+  content: "\e905";
+}
+.friendship-de-postcard:before {
+  content: "\e906";
+}
+.friendship-de-picture:before {
+  content: "\e907";
+}
+.friendship-de-photo:before {
+  content: "\e908";
+}
+.friendship-de-friends-2:before {
+  content: "\e909";
+}
+.friendship-de-friends-3:before {
+  content: "\e90a";
+}
+.friendship-de-puzzle:before {
+  content: "\e90b";
+}
+.friendship-de-protection:before {
+  content: "\e90c";
+}
+.friendship-de-gift:before {
+  content: "\e90d";
+}
+.friendship-de-friends-4:before {
+  content: "\e90e";
+}
+.friendship-de-love-letter:before {
+  content: "\e90f";
+}
+.friendship-de-car:before {
+  content: "\e910";
+}
+.friendship-de-phone-call:before {
+  content: "\e911";
+}
+.friendship-de-friends-5:before {
+  content: "\e912";
+}
+.friendship-de-open-box:before {
+  content: "\e913";
+}
+.friendship-de-gamepad:before {
+  content: "\e914";
+}
+.friendship-de-internet:before {
+  content: "\e915";
+}
+.friendship-de-hand-shake:before {
+  content: "\e916";
+}
+.friendship-de-toast:before {
+  content: "\e917";
+}
+.friendship-de-notification:before {
+  content: "\e918";
+}
+.friendship-de-friends-6:before {
+  content: "\e919";
+}
+.friendship-de-friends-7:before {
+  content: "\e91a";
+}
+.friendship-de-friends-8:before {
+  content: "\e91b";
+}
+.friendship-de-friends-9:before {
+  content: "\e91c";
+}
+.friendship-de-friendship:before {
+  content: "\e91d";
+}
+.friendship-de-add-user:before {
+  content: "\e91e";
+}
+.friendship-de-friends-10:before {
+  content: "\e91f";
+}
+.friendship-de-friends-11:before {
+  content: "\e920";
+}
+.friendship-de-friends-12:before {
+  content: "\e921";
+}
+.friendship-de-friends-13:before {
+  content: "\e922";
+}
+.friendship-de-monitor:before {
+  content: "\e923";
+}
+.friendship-de-medal:before {
+  content: "\e924";
+}
+.friendship-de-dog:before {
+  content: "\e925";
+}
+.friendship-de-cat:before {
+  content: "\e926";
+}
+.friendship-de-money:before {
+  content: "\e927";
+}
+.friendship-de-coffee-cup:before {
+  content: "\e928";
+}
+.friendship-de-beers:before {
+  content: "\e929";
+}
+.friendship-de-salute:before {
+  content: "\e92a";
+}
+.friendship-de-friends-14:before {
+  content: "\e92b";
+}
+.friendship-de-high-five:before {
+  content: "\e92c";
+}
+.friendship-de-graduates:before {
+  content: "\e92d";
+}
+.friendship-de-email:before {
+  content: "\e92e";
+}
+.friendship-de-friends-15:before {
+  content: "\e92f";
+}
+.friendship-de-chat-1:before {
+  content: "\e930";
+}
+.friendship-de-hugh:before {
+  content: "\e931";
+}

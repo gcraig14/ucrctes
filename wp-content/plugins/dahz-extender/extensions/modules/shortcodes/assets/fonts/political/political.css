@@ -1,0 +1,326 @@
+@font-face {
+  font-family: 'political';
+  src:  url('political.eot?bjqjui');
+  src:  url('political.eot?bjqjui#iefix') format('embedded-opentype'),
+    url('political.ttf?bjqjui') format('truetype'),
+    url('political.woff?bjqjui') format('woff'),
+    url('political.svg?bjqjui#political') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="political-de-"], [class*=" political-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'political' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.political-de-businessman:before {
+  content: "\e900";
+}
+.political-de-waiter:before {
+  content: "\e901";
+}
+.political-de-nun:before {
+  content: "\e902";
+}
+.political-de-priest:before {
+  content: "\e903";
+}
+.political-de-nurse:before {
+  content: "\e904";
+}
+.political-de-surgeon:before {
+  content: "\e905";
+}
+.political-de-welder:before {
+  content: "\e906";
+}
+.political-de-firefighter:before {
+  content: "\e907";
+}
+.political-de-candidate-3:before {
+  content: "\e908";
+}
+.political-de-united-states-of-america-2:before {
+  content: "\e909";
+}
+.political-de-column:before {
+  content: "\e90a";
+}
+.political-de-capitol-5:before {
+  content: "\e90b";
+}
+.political-de-statue-of-liberty:before {
+  content: "\e90c";
+}
+.political-de-united-states-of-america-1:before {
+  content: "\e90d";
+}
+.political-de-candidate-2:before {
+  content: "\e90e";
+}
+.political-de-mortarboard:before {
+  content: "\e90f";
+}
+.political-de-balance:before {
+  content: "\e910";
+}
+.political-de-diploma:before {
+  content: "\e911";
+}
+.political-de-auction:before {
+  content: "\e912";
+}
+.political-de-newspaper-4:before {
+  content: "\e913";
+}
+.political-de-newspaper-3:before {
+  content: "\e914";
+}
+.political-de-newspaper-2:before {
+  content: "\e915";
+}
+.political-de-newspaper-1:before {
+  content: "\e916";
+}
+.political-de-newspaper:before {
+  content: "\e917";
+}
+.political-de-nightstick:before {
+  content: "\e918";
+}
+.political-de-car:before {
+  content: "\e919";
+}
+.political-de-siren:before {
+  content: "\e91a";
+}
+.political-de-soldier:before {
+  content: "\e91b";
+}
+.political-de-police:before {
+  content: "\e91c";
+}
+.political-de-bible-3:before {
+  content: "\e91d";
+}
+.political-de-bible-2:before {
+  content: "\e91e";
+}
+.political-de-oath:before {
+  content: "\e91f";
+}
+.political-de-bible-1:before {
+  content: "\e920";
+}
+.political-de-bible:before {
+  content: "\e921";
+}
+.political-de-laptop:before {
+  content: "\e922";
+}
+.political-de-merging-1:before {
+  content: "\e923";
+}
+.political-de-ballot-11:before {
+  content: "\e924";
+}
+.political-de-television:before {
+  content: "\e925";
+}
+.political-de-ballot-10:before {
+  content: "\e926";
+}
+.political-de-fireworks-4:before {
+  content: "\e927";
+}
+.political-de-fireworks-3:before {
+  content: "\e928";
+}
+.political-de-fireworks-2:before {
+  content: "\e929";
+}
+.political-de-fireworks-1:before {
+  content: "\e92a";
+}
+.political-de-fireworks:before {
+  content: "\e92b";
+}
+.political-de-ballot-9:before {
+  content: "\e92c";
+}
+.political-de-ballot-8:before {
+  content: "\e92d";
+}
+.political-de-ballot-7:before {
+  content: "\e92e";
+}
+.political-de-ballot-6:before {
+  content: "\e92f";
+}
+.political-de-ballot-5:before {
+  content: "\e930";
+}
+.political-de-capitol-4:before {
+  content: "\e931";
+}
+.political-de-capitol-3:before {
+  content: "\e932";
+}
+.political-de-capitol-2:before {
+  content: "\e933";
+}
+.political-de-capitol-1:before {
+  content: "\e934";
+}
+.political-de-capitol:before {
+  content: "\e935";
+}
+.political-de-vote-5:before {
+  content: "\e936";
+}
+.political-de-vote-4:before {
+  content: "\e937";
+}
+.political-de-vote-3:before {
+  content: "\e938";
+}
+.political-de-vote-2:before {
+  content: "\e939";
+}
+.political-de-banner:before {
+  content: "\e93a";
+}
+.political-de-flags-1:before {
+  content: "\e93b";
+}
+.political-de-united-states-of-america:before {
+  content: "\e93c";
+}
+.political-de-flags:before {
+  content: "\e93d";
+}
+.political-de-garlands-1:before {
+  content: "\e93e";
+}
+.political-de-garlands:before {
+  content: "\e93f";
+}
+.political-de-hat:before {
+  content: "\e940";
+}
+.political-de-bow-tie:before {
+  content: "\e941";
+}
+.political-de-tie:before {
+  content: "\e942";
+}
+.political-de-candidate-1:before {
+  content: "\e943";
+}
+.political-de-candidate:before {
+  content: "\e944";
+}
+.political-de-protest-1:before {
+  content: "\e945";
+}
+.political-de-protest:before {
+  content: "\e946";
+}
+.political-de-vote-1:before {
+  content: "\e947";
+}
+.political-de-vote:before {
+  content: "\e948";
+}
+.political-de-deal:before {
+  content: "\e949";
+}
+.political-de-merging:before {
+  content: "\e94a";
+}
+.political-de-results-2:before {
+  content: "\e94b";
+}
+.political-de-results-1:before {
+  content: "\e94c";
+}
+.political-de-pie-chart:before {
+  content: "\e94d";
+}
+.political-de-results:before {
+  content: "\e94e";
+}
+.political-de-medal-1:before {
+  content: "\e94f";
+}
+.political-de-medal:before {
+  content: "\e950";
+}
+.political-de-badge-2:before {
+  content: "\e951";
+}
+.political-de-badge-1:before {
+  content: "\e952";
+}
+.political-de-badge:before {
+  content: "\e953";
+}
+.political-de-calendar-4:before {
+  content: "\e954";
+}
+.political-de-calendar-3:before {
+  content: "\e955";
+}
+.political-de-calendar-2:before {
+  content: "\e956";
+}
+.political-de-calendar-1:before {
+  content: "\e957";
+}
+.political-de-calendar:before {
+  content: "\e958";
+}
+.political-de-graduated:before {
+  content: "\e959";
+}
+.political-de-conference-4:before {
+  content: "\e95a";
+}
+.political-de-conference-3:before {
+  content: "\e95b";
+}
+.political-de-conference-2:before {
+  content: "\e95c";
+}
+.political-de-conference-1:before {
+  content: "\e95d";
+}
+.political-de-conference:before {
+  content: "\e95e";
+}
+.political-de-ballot-4:before {
+  content: "\e95f";
+}
+.political-de-ballot-3:before {
+  content: "\e960";
+}
+.political-de-ballot-2:before {
+  content: "\e961";
+}
+.political-de-ballot-1:before {
+  content: "\e962";
+}
+.political-de-ballot:before {
+  content: "\e963";
+}

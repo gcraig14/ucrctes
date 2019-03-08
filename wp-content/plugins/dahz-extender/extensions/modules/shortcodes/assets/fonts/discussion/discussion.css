@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'discussion';
+  src:  url('discussion.eot?cqfjzl');
+  src:  url('discussion.eot?cqfjzl#iefix') format('embedded-opentype'),
+    url('discussion.ttf?cqfjzl') format('truetype'),
+    url('discussion.woff?cqfjzl') format('woff'),
+    url('discussion.svg?cqfjzl#discussion') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="discussion-de-"], [class*=" discussion-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'discussion' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.discussion-de-quote:before {
+  content: "\e900";
+}
+.discussion-de-call:before {
+  content: "\e901";
+}
+.discussion-de-messenger:before {
+  content: "\e902";
+}
+.discussion-de-statistics:before {
+  content: "\e903";
+}
+.discussion-de-horn:before {
+  content: "\e904";
+}
+.discussion-de-battle:before {
+  content: "\e905";
+}
+.discussion-de-interview:before {
+  content: "\e906";
+}
+.discussion-de-debate:before {
+  content: "\e907";
+}
+.discussion-de-translate:before {
+  content: "\e908";
+}
+.discussion-de-sms:before {
+  content: "\e909";
+}
+.discussion-de-idea:before {
+  content: "\e90a";
+}
+.discussion-de-location:before {
+  content: "\e90b";
+}
+.discussion-de-discussion-1:before {
+  content: "\e90c";
+}
+.discussion-de-polling:before {
+  content: "\e90d";
+}
+.discussion-de-anonymous-message:before {
+  content: "\e90e";
+}
+.discussion-de-video-conference:before {
+  content: "\e90f";
+}
+.discussion-de-complaints-book:before {
+  content: "\e910";
+}
+.discussion-de-anger:before {
+  content: "\e911";
+}
+.discussion-de-speech-3:before {
+  content: "\e912";
+}
+.discussion-de-swearing:before {
+  content: "\e913";
+}
+.discussion-de-chief:before {
+  content: "\e914";
+}
+.discussion-de-envelope:before {
+  content: "\e915";
+}
+.discussion-de-smiles:before {
+  content: "\e916";
+}
+.discussion-de-online-chat:before {
+  content: "\e917";
+}
+.discussion-de-review:before {
+  content: "\e918";
+}
+.discussion-de-question:before {
+  content: "\e919";
+}
+.discussion-de-presentation:before {
+  content: "\e91a";
+}
+.discussion-de-confirmity:before {
+  content: "\e91b";
+}
+.discussion-de-conversation:before {
+  content: "\e91c";
+}
+.discussion-de-message-1:before {
+  content: "\e91d";
+}
+.discussion-de-monologue:before {
+  content: "\e91e";
+}
+.discussion-de-message:before {
+  content: "\e91f";
+}
+.discussion-de-thinking:before {
+  content: "\e920";
+}
+.discussion-de-speech-2:before {
+  content: "\e921";
+}
+.discussion-de-dispute:before {
+  content: "\e922";
+}
+.discussion-de-speech-1:before {
+  content: "\e923";
+}
+.discussion-de-story:before {
+  content: "\e924";
+}
+.discussion-de-discussion:before {
+  content: "\e925";
+}
+.discussion-de-dialogue:before {
+  content: "\e926";
+}
+.discussion-de-speech:before {
+  content: "\e927";
+}

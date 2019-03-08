@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'politics';
+  src:  url('politics.eot?6epmmx');
+  src:  url('politics.eot?6epmmx#iefix') format('embedded-opentype'),
+    url('politics.ttf?6epmmx') format('truetype'),
+    url('politics.woff?6epmmx') format('woff'),
+    url('politics.svg?6epmmx#politics') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="politics-de-"], [class*=" politics-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'politics' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.politics-de-medal:before {
+  content: "\e900";
+}
+.politics-de-group-1:before {
+  content: "\e901";
+}
+.politics-de-speech-2:before {
+  content: "\e902";
+}
+.politics-de-group:before {
+  content: "\e903";
+}
+.politics-de-law-book:before {
+  content: "\e904";
+}
+.politics-de-flag-1:before {
+  content: "\e905";
+}
+.politics-de-vote-1:before {
+  content: "\e906";
+}
+.politics-de-balloons:before {
+  content: "\e907";
+}
+.politics-de-agreement:before {
+  content: "\e908";
+}
+.politics-de-garlands:before {
+  content: "\e909";
+}
+.politics-de-raise-hand:before {
+  content: "\e90a";
+}
+.politics-de-analytics:before {
+  content: "\e90b";
+}
+.politics-de-supporter-1:before {
+  content: "\e90c";
+}
+.politics-de-speech-1:before {
+  content: "\e90d";
+}
+.politics-de-supporter:before {
+  content: "\e90e";
+}
+.politics-de-ranking:before {
+  content: "\e90f";
+}
+.politics-de-megaphone:before {
+  content: "\e910";
+}
+.politics-de-debate:before {
+  content: "\e911";
+}
+.politics-de-monitor:before {
+  content: "\e912";
+}
+.politics-de-news:before {
+  content: "\e913";
+}
+.politics-de-candidates-2:before {
+  content: "\e914";
+}
+.politics-de-speech:before {
+  content: "\e915";
+}
+.politics-de-check:before {
+  content: "\e916";
+}
+.politics-de-candidates-1:before {
+  content: "\e917";
+}
+.politics-de-like:before {
+  content: "\e918";
+}
+.politics-de-capitol:before {
+  content: "\e919";
+}
+.politics-de-smartphone-1:before {
+  content: "\e91a";
+}
+.politics-de-clipboard:before {
+  content: "\e91b";
+}
+.politics-de-candidates:before {
+  content: "\e91c";
+}
+.politics-de-smartphone:before {
+  content: "\e91d";
+}
+.politics-de-microphone:before {
+  content: "\e91e";
+}
+.politics-de-voting:before {
+  content: "\e91f";
+}
+.politics-de-graphic-chart:before {
+  content: "\e920";
+}
+.politics-de-polling:before {
+  content: "\e921";
+}
+.politics-de-chat:before {
+  content: "\e922";
+}
+.politics-de-balance:before {
+  content: "\e923";
+}
+.politics-de-briefcase:before {
+  content: "\e924";
+}
+.politics-de-election:before {
+  content: "\e925";
+}
+.politics-de-support:before {
+  content: "\e926";
+}
+.politics-de-ballot-1:before {
+  content: "\e927";
+}
+.politics-de-politician-3:before {
+  content: "\e928";
+}
+.politics-de-ballot:before {
+  content: "\e929";
+}
+.politics-de-politician-2:before {
+  content: "\e92a";
+}
+.politics-de-vote:before {
+  content: "\e92b";
+}
+.politics-de-politician-1:before {
+  content: "\e92c";
+}
+.politics-de-candidate:before {
+  content: "\e92d";
+}
+.politics-de-politicians:before {
+  content: "\e92e";
+}
+.politics-de-politician:before {
+  content: "\e92f";
+}
+.politics-de-team:before {
+  content: "\e930";
+}
+.politics-de-flag:before {
+  content: "\e931";
+}

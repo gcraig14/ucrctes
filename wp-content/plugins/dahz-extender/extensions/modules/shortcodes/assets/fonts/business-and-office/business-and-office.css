@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'business-and-office';
+  src:  url('business-and-office.eot?m1t49o');
+  src:  url('business-and-office.eot?m1t49o#iefix') format('embedded-opentype'),
+    url('business-and-office.ttf?m1t49o') format('truetype'),
+    url('business-and-office.woff?m1t49o') format('woff'),
+    url('business-and-office.svg?m1t49o#business-and-office') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="business-and-office-de-"], [class*=" business-and-office-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'business-and-office' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.business-and-office-de-teamwork-3:before {
+  content: "\e900";
+}
+.business-and-office-de-teamwork-2:before {
+  content: "\e901";
+}
+.business-and-office-de-support:before {
+  content: "\e902";
+}
+.business-and-office-de-management:before {
+  content: "\e903";
+}
+.business-and-office-de-exchange:before {
+  content: "\e904";
+}
+.business-and-office-de-brainstorming:before {
+  content: "\e905";
+}
+.business-and-office-de-gears:before {
+  content: "\e906";
+}
+.business-and-office-de-networking:before {
+  content: "\e907";
+}
+.business-and-office-de-transfer:before {
+  content: "\e908";
+}
+.business-and-office-de-team-3:before {
+  content: "\e909";
+}
+.business-and-office-de-presentation:before {
+  content: "\e90a";
+}
+.business-and-office-de-strategy:before {
+  content: "\e90b";
+}
+.business-and-office-de-profits:before {
+  content: "\e90c";
+}
+.business-and-office-de-settings:before {
+  content: "\e90d";
+}
+.business-and-office-de-discussion:before {
+  content: "\e90e";
+}
+.business-and-office-de-files:before {
+  content: "\e90f";
+}
+.business-and-office-de-tasks-2:before {
+  content: "\e910";
+}
+.business-and-office-de-tasks-1:before {
+  content: "\e911";
+}
+.business-and-office-de-community:before {
+  content: "\e912";
+}
+.business-and-office-de-curriculum:before {
+  content: "\e913";
+}
+.business-and-office-de-puzzle:before {
+  content: "\e914";
+}
+.business-and-office-de-team-2:before {
+  content: "\e915";
+}
+.business-and-office-de-teamwork-1:before {
+  content: "\e916";
+}
+.business-and-office-de-communication:before {
+  content: "\e917";
+}
+.business-and-office-de-tasks:before {
+  content: "\e918";
+}
+.business-and-office-de-team-1:before {
+  content: "\e919";
+}
+.business-and-office-de-man:before {
+  content: "\e91a";
+}
+.business-and-office-de-woman:before {
+  content: "\e91b";
+}
+.business-and-office-de-teamwork:before {
+  content: "\e91c";
+}
+.business-and-office-de-team:before {
+  content: "\e91d";
+}

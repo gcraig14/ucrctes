@@ -1,0 +1,1312 @@
+# Translation of Plugins - Atomic Blocks &#8211; Gutenberg Blocks Collection - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Atomic Blocks &#8211; Gutenberg Blocks Collection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-01 12:26:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Atomic Blocks &#8211; Gutenberg Blocks Collection - Stable (latest release)\n"
+
+#: src/blocks/block-post-grid/edit.js:155
+msgid "Display Post Title"
+msgstr "Mostrar el título de la entrada"
+
+#: src/blocks/block-author-profile/components/inspector.js:171
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: src/blocks/block-sharing/components/inspector.js:127
+msgid "Button Style"
+msgstr "Estilo de botón"
+
+#: src/blocks/block-sharing/components/inspector.js:125
+msgid "Sharing Button Options"
+msgstr "Opciones del botón de compartir"
+
+#: src/blocks/block-sharing/components/inspector.js:114
+msgid "Reddit"
+msgstr "Reddit"
+
+#: src/blocks/block-sharing/components/inspector.js:109
+#: src/blocks/block-author-profile/components/social.js:63
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/blocks/block-sharing/components/inspector.js:86
+msgid "Enable or disable the sharing links you want to output."
+msgstr "Activa o desactiva los enlaces de compartir que quieres mostrar."
+
+#: src/blocks/block-sharing/components/inspector.js:80
+msgid "Social Colors"
+msgstr "Colores sociales"
+
+#: src/blocks/block-sharing/components/inspector.js:79
+msgid "Standard"
+msgstr "Estándar"
+
+#: src/blocks/block-sharing/components/inspector.js:60
+msgid "Text Only"
+msgstr "Solo texto"
+
+#: src/blocks/block-sharing/components/inspector.js:59
+msgid "Icon Only"
+msgstr "Solo icono"
+
+#: src/blocks/block-sharing/components/inspector.js:58
+msgid "Icon and Text"
+msgstr "Icono y texto"
+
+#: src/blocks/block-sharing/index.js:154
+msgid "Share on reddit"
+msgstr "Compartir en reddit"
+
+#: src/blocks/block-sharing/index.js:47
+msgid "social"
+msgstr "social"
+
+#: src/blocks/block-sharing/index.js:46
+msgid "sharing"
+msgstr "compartir"
+
+#: src/blocks/block-sharing/index.js:42
+msgid "Add sharing buttons to your posts and pages."
+msgstr "Añade botones de compartir en tus entradas y páginas."
+
+#: src/blocks/block-sharing/index.js:41
+msgid "AB Sharing"
+msgstr "AB Compartir"
+
+#: src/blocks/block-testimonial/components/inspector.js:77
+msgid "Left or right align the cite name and title."
+msgstr "Alinea a la izquierda o a la derecha el nombre y título de la cita."
+
+#: src/blocks/block-testimonial/components/inspector.js:76
+msgid "Cite Alignment"
+msgstr "Alineación de citas"
+
+#: src/blocks/block-testimonial/components/inspector.js:42
+msgid "Right Aligned"
+msgstr "Alineado a la derecha"
+
+#: src/blocks/block-testimonial/components/inspector.js:41
+msgid "Left Aligned"
+msgstr "Alineado a la izquierda"
+
+#: src/blocks/block-testimonial/index.js:169
+msgid "testimonial"
+msgstr "testimonio"
+
+#: src/blocks/block-testimonial/index.js:165
+msgid "Add a user testimonial with a name and title."
+msgstr "Añade una recomendación de usuario con un nombre y título."
+
+#: src/blocks/block-testimonial/index.js:164
+msgid "AB Testimonial"
+msgstr "AB Testimonio"
+
+#: src/blocks/block-testimonial/index.js:90
+msgid "Add testimonial text..."
+msgstr "Agregar texto del testimonio..."
+
+#: src/blocks/block-spacer/components/inspector.js:101
+#: src/blocks/block-spacer/components/inspector.js:107
+msgid "Divider Color"
+msgstr "Color de divisor"
+
+#: src/blocks/block-spacer/components/inspector.js:93
+msgid "Divider Height"
+msgstr "Altura de divisor"
+
+#: src/blocks/block-spacer/components/inspector.js:83
+msgid "Divider Style"
+msgstr "Estilo de divisor"
+
+#: src/blocks/block-spacer/components/inspector.js:75
+msgid "Add Divider"
+msgstr "Añadir un divisor"
+
+#: src/blocks/block-spacer/components/inspector.js:67
+msgid "Spacer Height"
+msgstr "Altura del separador"
+
+#: src/blocks/block-spacer/components/inspector.js:46
+msgid "Dotted"
+msgstr "Punteado"
+
+#: src/blocks/block-spacer/components/inspector.js:45
+msgid "Dashed"
+msgstr "Linea discontinua"
+
+#: src/blocks/block-spacer/components/inspector.js:44
+msgid "Solid"
+msgstr "Sólido"
+
+#: src/blocks/block-spacer/index.js:96
+msgid "divider"
+msgstr "divisor"
+
+#: src/blocks/block-spacer/index.js:95
+msgid "spacer"
+msgstr "espaciador"
+
+#: src/blocks/block-spacer/index.js:91
+msgid "Add a spacer and divider between your blocks."
+msgstr "Añade un espaciador y un divisor entre tus bloques."
+
+#: src/blocks/block-spacer/index.js:90
+msgid "AB Spacer"
+msgstr "AB Espacidor"
+
+#: src/blocks/block-cta/components/inspector.js:205
+msgid "Button Options"
+msgstr "Opciones de botón"
+
+#: src/blocks/block-cta/components/inspector.js:198
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: src/blocks/block-cta/components/inspector.js:129
+msgid "Text Font Size"
+msgstr "Tamaño de fuente de texto"
+
+#: src/blocks/block-cta/components/inspector.js:120
+msgid "Title Font Size"
+msgstr "Tamaño de fuente del título"
+
+#: src/blocks/block-cta/components/inspector.js:118
+msgid "Text Options"
+msgstr "Opciones de texto"
+
+#: src/blocks/block-cta/index.js:297
+msgid "cta"
+msgstr "cta"
+
+#: src/blocks/block-cta/index.js:296
+msgid "call to action"
+msgstr "llamada a la acción"
+
+#: src/blocks/block-cta/index.js:292
+msgid "Add a call to action section with a title, text, and a button."
+msgstr "Añade una sección de llamada a la acción con un título, texto y un botón."
+
+#: src/blocks/block-cta/index.js:291
+msgid "AB Call To Action"
+msgstr "AB Llamada a la acción"
+
+#: src/blocks/block-cta/index.js:231
+msgid "Call To Action Text"
+msgstr "Texto de la llamada a la acción"
+
+#: src/blocks/block-cta/index.js:216
+msgid "Call-To-Action Title"
+msgstr "Título de la llamada a la acción"
+
+#: src/blocks/block-post-grid/edit.js:270
+#: src/blocks/block-post-grid/edit.js:281
+msgid "(Untitled)"
+msgstr "(Sin título)"
+
+#: src/blocks/block-post-grid/edit.js:224
+msgid "List View"
+msgstr "Vista de lista"
+
+#: src/blocks/block-post-grid/edit.js:218
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: src/blocks/block-post-grid/edit.js:203
+msgid "No posts found."
+msgstr "No se han encontrado publicaciones."
+
+#: src/blocks/block-post-grid/edit.js:199
+msgid "Atomic Blocks Post Grid"
+msgstr "Cuadrícula de entradas de Atomic Blocks"
+
+#: src/blocks/block-post-grid/edit.js:181
+msgid "Customize Read More Link"
+msgstr "Personalizar el enlace Leer más"
+
+#: src/blocks/block-post-grid/edit.js:175
+msgid "Display Continue Reading Link"
+msgstr "Mostrar el enlace Seguir leyendo"
+
+#: src/blocks/block-post-grid/edit.js:170
+msgid "Display Post Excerpt"
+msgstr "Mostrar el extracto de la entrada"
+
+#: src/blocks/block-post-grid/edit.js:165
+msgid "Display Post Date"
+msgstr "Mostrar la fecha de la entrada"
+
+#: src/blocks/block-post-grid/edit.js:160
+msgid "Display Post Author"
+msgstr "Mostrar el autor"
+
+#: src/blocks/block-post-grid/edit.js:148
+msgid "Featured Image Style"
+msgstr "Estilo de imagen destacada"
+
+#: src/blocks/block-post-grid/edit.js:142
+msgid "Display Featured Image"
+msgstr "Mostrar imagen destacada"
+
+#: src/blocks/block-post-grid/edit.js:134
+msgid "Columns"
+msgstr "Columnas"
+
+#: src/blocks/block-post-grid/edit.js:121
+msgid "Post Grid Settings"
+msgstr "Ajustes de la cuadrícula de entradas"
+
+#: src/blocks/block-post-grid/edit.js:113
+msgid "Landscape"
+msgstr "Apaisado"
+
+#: src/blocks/block-post-grid/index.js:37
+msgid "grid"
+msgstr "cuadrícula"
+
+#: src/blocks/block-post-grid/index.js:36
+msgid "post"
+msgstr "entrada"
+
+#: src/blocks/block-post-grid/index.js:32
+msgid "Add a grid or list of customizable posts to your page."
+msgstr "Añade una cuadrícula o lista de entradas personalizables a tu página."
+
+#: src/blocks/block-post-grid/index.js:31
+msgid "AB Post Grid"
+msgstr "AB Cuadrícula de entradas"
+
+#: src/blocks/block-drop-cap/components/inspector.js:60
+msgid "Choose the style of the drop cap in your paragraph."
+msgstr "Elige el estilo de la capitular de tu párrafo."
+
+#: src/blocks/block-drop-cap/components/inspector.js:59
+msgid "Drop Cap Style"
+msgstr "Estilo de la capitular"
+
+#: src/blocks/block-drop-cap/components/inspector.js:50
+msgid "Drop Cap Size"
+msgstr "Tamaño de la capitular"
+
+#: src/blocks/block-drop-cap/components/inspector.js:43
+msgid "Border"
+msgstr "Borde"
+
+#: src/blocks/block-drop-cap/components/inspector.js:41
+msgid "Letter"
+msgstr "Letra"
+
+#: src/blocks/block-testimonial/index.js:170
+#: src/blocks/block-drop-cap/index.js:86
+msgid "quote"
+msgstr "cita"
+
+#: src/blocks/block-drop-cap/index.js:85
+msgid "drop cap"
+msgstr "capitular"
+
+#: src/blocks/block-drop-cap/index.js:81
+msgid "Add a styled drop cap to the beginning of your paragraph."
+msgstr "Añade una letra capitular al principio de tu párrafo."
+
+#: src/blocks/block-drop-cap/index.js:80
+msgid "AB Drop Cap"
+msgstr "AB Capitular"
+
+#: src/blocks/block-drop-cap/index.js:63
+msgid "Add paragraph text..."
+msgstr "Añade texto al párrafo..."
+
+#: src/blocks/block-author-profile/components/inspector.js:185
+msgid "Website URL"
+msgstr "URL de la web"
+
+#: src/blocks/block-author-profile/components/inspector.js:178
+msgid "Email URL"
+msgstr "URL de correo electrónico"
+
+#: src/blocks/block-author-profile/components/inspector.js:164
+msgid "Github URL"
+msgstr "URL de Github"
+
+#: src/blocks/block-author-profile/components/inspector.js:157
+msgid "YouTube URL"
+msgstr "URL de Youtube"
+
+#: src/blocks/block-author-profile/components/inspector.js:150
+msgid "Google URL"
+msgstr "URL de Google"
+
+#: src/blocks/block-author-profile/components/inspector.js:143
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: src/blocks/block-author-profile/components/inspector.js:136
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: src/blocks/block-author-profile/components/inspector.js:129
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: src/blocks/block-author-profile/components/inspector.js:122
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: src/blocks/block-author-profile/components/inspector.js:119
+msgid "Add links to your social media site and they will appear in the bottom of the profile box."
+msgstr "Añade enlaces a tus redes sociales y aparecerán en la parte inferior de la caja de perfil."
+
+#: src/blocks/block-author-profile/components/inspector.js:118
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: src/blocks/block-author-profile/components/inspector.js:106
+#: src/blocks/block-author-profile/components/inspector.js:111
+msgid "Social Link Color"
+msgstr "Color de enlaces sociales"
+
+#: src/blocks/block-author-profile/components/inspector.js:77
+msgid "Choose between a round or square avatar shape."
+msgstr "Elige entre una forma de avatar redonda o cuadrada."
+
+#: src/blocks/block-author-profile/components/inspector.js:76
+msgid "Avatar Shape"
+msgstr "Forma de Avatar"
+
+#: src/blocks/block-author-profile/components/inspector.js:43
+msgid "Round"
+msgstr "Redondo"
+
+#: src/blocks/block-sharing/components/inspector.js:119
+#: src/blocks/block-author-profile/components/social.js:75
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: src/blocks/block-author-profile/components/social.js:69
+msgid "Github"
+msgstr "Github"
+
+#: src/blocks/block-author-profile/components/social.js:57
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/block-sharing/components/inspector.js:99
+#: src/blocks/block-author-profile/components/social.js:51
+msgid "Google"
+msgstr "Google"
+
+#: src/blocks/block-sharing/components/inspector.js:104
+#: src/blocks/block-author-profile/components/social.js:45
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/block-author-profile/components/social.js:39
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/block-sharing/components/inspector.js:94
+#: src/blocks/block-author-profile/components/social.js:33
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/block-author-profile/components/social.js:21
+msgid "Website"
+msgstr "Web"
+
+#: src/blocks/block-author-profile/index.js:262
+msgid "profile"
+msgstr "perfil"
+
+#: src/blocks/block-author-profile/index.js:261
+msgid "author"
+msgstr "autor"
+
+#: src/blocks/block-author-profile/index.js:257
+msgid "Add a profile box with bio info and social media links."
+msgstr "Añada un cuadro de perfil con información biográfica y enlaces a redes sociales."
+
+#: src/blocks/block-author-profile/index.js:256
+msgid "AB Profile Box"
+msgstr "AB Caja de perfil"
+
+#: src/blocks/block-author-profile/index.js:240
+msgid "Add profile text..."
+msgstr "Añade texto del perfil...."
+
+#: src/blocks/block-testimonial/index.js:147
+#: src/blocks/block-author-profile/index.js:226
+msgid "Add title"
+msgstr "Añadir título"
+
+#: src/blocks/block-testimonial/index.js:135
+#: src/blocks/block-author-profile/index.js:214
+msgid "Add name"
+msgstr "Añadir nombre"
+
+#: src/blocks/block-cta/components/inspector.js:245
+#: src/blocks/block-cta/components/inspector.js:250
+#: src/blocks/block-button/components/inspector.js:117
+#: src/blocks/block-button/components/inspector.js:122
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: src/blocks/block-sharing/components/inspector.js:157
+#: src/blocks/block-cta/components/inspector.js:233
+#: src/blocks/block-cta/components/inspector.js:238
+#: src/blocks/block-button/components/inspector.js:105
+#: src/blocks/block-button/components/inspector.js:110
+msgid "Button Color"
+msgstr "Color de botón"
+
+#: src/blocks/block-sharing/components/inspector.js:137
+#: src/blocks/block-cta/components/inspector.js:223
+#: src/blocks/block-button/components/inspector.js:95
+msgid "Button Shape"
+msgstr "Forma del botón"
+
+#: src/blocks/block-sharing/components/inspector.js:147
+#: src/blocks/block-cta/components/inspector.js:213
+#: src/blocks/block-button/components/inspector.js:85
+msgid "Button Size"
+msgstr "Tamaño del botón"
+
+#: src/blocks/block-cta/components/inspector.js:207
+#: src/blocks/block-button/components/inspector.js:79
+msgid "Open link in new window"
+msgstr "Abrir enlace en una ventana nueva"
+
+#: src/blocks/block-sharing/components/inspector.js:67
+#: src/blocks/block-cta/components/inspector.js:77
+#: src/blocks/block-button/components/inspector.js:56
+msgid "Circular"
+msgstr "Circular"
+
+#: src/blocks/block-sharing/components/inspector.js:66
+#: src/blocks/block-cta/components/inspector.js:76
+#: src/blocks/block-button/components/inspector.js:55
+msgid "Rounded Square"
+msgstr "Cuadrado redondeado"
+
+#: src/blocks/block-sharing/components/inspector.js:65
+#: src/blocks/block-drop-cap/components/inspector.js:42
+#: src/blocks/block-cta/components/inspector.js:75
+#: src/blocks/block-button/components/inspector.js:54
+#: src/blocks/block-author-profile/components/inspector.js:42
+#: src/blocks/block-post-grid/edit.js:114
+msgid "Square"
+msgstr "Cuadrado"
+
+#: src/blocks/block-cta/components/inspector.js:70
+#: src/blocks/block-button/components/inspector.js:49
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: src/blocks/block-sharing/components/inspector.js:74
+#: src/blocks/block-cta/components/inspector.js:69
+#: src/blocks/block-button/components/inspector.js:48
+msgid "Large"
+msgstr "Grande"
+
+#: src/blocks/block-sharing/components/inspector.js:73
+#: src/blocks/block-cta/components/inspector.js:68
+#: src/blocks/block-button/components/inspector.js:47
+msgid "Medium"
+msgstr "Mediano"
+
+#: src/blocks/block-sharing/components/inspector.js:72
+#: src/blocks/block-cta/components/inspector.js:67
+#: src/blocks/block-button/components/inspector.js:46
+msgid "Small"
+msgstr "Pequeño"
+
+#: src/blocks/block-button/index.js:116
+msgid "link"
+msgstr "enlace"
+
+#: src/blocks/block-button/index.js:115
+msgid "button"
+msgstr "botón"
+
+#: src/blocks/block-button/index.js:111
+msgid "Add a customizable button."
+msgstr "Añade un botón personalizable."
+
+#: src/blocks/block-button/index.js:110
+msgid "AB Button"
+msgstr "AB Botón"
+
+#: src/blocks/block-cta/index.js:278 src/blocks/block-button/index.js:99
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src/blocks/block-cta/index.js:247 src/blocks/block-button/index.js:66
+msgid "Button text..."
+msgstr "Texto del botón..."
+
+#: src/blocks/block-accordion/components/inspector.js:52
+msgid "Open by default"
+msgstr "Abrir por defecto"
+
+#: src/blocks/block-accordion/index.js:114
+msgid "list"
+msgstr "lista"
+
+#: src/blocks/block-accordion/index.js:113
+msgid "accordion"
+msgstr "acordeón"
+
+#: src/blocks/block-accordion/index.js:109
+msgid "Add accordion block with a title and text."
+msgstr "Añade un bloque de acordeón con un título y texto."
+
+#: src/blocks/block-accordion/index.js:108
+msgid "AB Accordion"
+msgstr "AB Acordeón"
+
+#: src/blocks/block-accordion/index.js:92
+msgid "Accordion Title"
+msgstr "Título del acordeón"
+
+#: src/blocks/block-testimonial/components/inspector.js:84
+#: src/blocks/block-testimonial/components/inspector.js:90
+#: src/blocks/block-cta/components/inspector.js:193
+#: src/blocks/block-container/components/inspector.js:176
+#: src/blocks/block-container/components/inspector.js:180
+#: src/blocks/block-author-profile/components/inspector.js:84
+#: src/blocks/block-author-profile/components/inspector.js:89
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: src/blocks/block-cta/components/inspector.js:183
+#: src/blocks/block-container/components/inspector.js:166
+msgid "Image Opacity"
+msgstr "Opacidad de la imagen"
+
+#: src/blocks/block-cta/components/inspector.js:173
+#: src/blocks/block-container/components/inspector.js:156
+msgid "Remove"
+msgstr "Eliminar"
+
+#: src/blocks/block-cta/components/inspector.js:169
+#: src/blocks/block-container/components/inspector.js:152
+msgid "Remove Image"
+msgstr "Eliminar imagen"
+
+#: src/blocks/block-cta/components/inspector.js:163
+#: src/blocks/block-container/components/inspector.js:146
+msgid "Select Image"
+msgstr "Selecciona una imagen"
+
+#: src/blocks/block-cta/components/inspector.js:159
+#: src/blocks/block-container/components/inspector.js:142
+msgid "Edit image"
+msgstr "Editar imagen"
+
+#: src/blocks/block-cta/components/inspector.js:150
+#: src/blocks/block-container/components/inspector.js:133
+msgid "Select a background image:"
+msgstr "Selecciona una imagen de fondo:"
+
+#: src/blocks/block-cta/components/inspector.js:149
+#: src/blocks/block-container/components/inspector.js:132
+msgid "Background Options"
+msgstr "Opciones de fondo"
+
+#: src/blocks/block-container/components/inspector.js:123
+msgid "Inside Container Max Width (px)"
+msgstr "Ancho máximo del contenedor interior (px)"
+
+#: src/blocks/block-container/components/inspector.js:114
+msgid "Margin Bottom (%)"
+msgstr "Margen inferior (%)"
+
+#: src/blocks/block-container/components/inspector.js:105
+msgid "Margin Top (%)"
+msgstr "Margen Superior (%)"
+
+#: src/blocks/block-container/components/inspector.js:96
+msgid "Padding Right (%)"
+msgstr "Magen interno derecho (%)"
+
+#: src/blocks/block-container/components/inspector.js:87
+msgid "Padding Left (%)"
+msgstr "Magen interno izquierdo (%)"
+
+#: src/blocks/block-container/components/inspector.js:78
+msgid "Padding Bottom (%)"
+msgstr "Magen interno inferior (%)"
+
+#: src/blocks/block-container/components/inspector.js:69
+msgid "Padding Top (%)"
+msgstr "Magen interno superior (%)"
+
+#: src/blocks/block-container/components/inspector.js:67
+msgid "Container Options"
+msgstr "Opciones de contenedor"
+
+#: src/blocks/block-container/index.js:191
+msgid "section"
+msgstr "sección"
+
+#: src/blocks/block-container/index.js:190
+msgid "container"
+msgstr "contenedor"
+
+#: src/blocks/block-container/index.js:186
+msgid "Add a container block to wrap several blocks in a parent container."
+msgstr "Añade un bloque contenedor para envolver varios bloques en un contenedor padre."
+
+#: src/blocks/block-container/index.js:185
+msgid "AB Container"
+msgstr "AB Contenedor"
+
+#: src/blocks/block-testimonial/components/inspector.js:97
+#: src/blocks/block-testimonial/components/inspector.js:102
+#: src/blocks/block-cta/components/inspector.js:138
+#: src/blocks/block-cta/components/inspector.js:143
+#: src/blocks/block-author-profile/components/inspector.js:95
+#: src/blocks/block-author-profile/components/inspector.js:100
+#: src/blocks/block-notice/components/inspector.js:111
+#: src/blocks/block-notice/components/inspector.js:117
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: src/blocks/block-notice/components/inspector.js:100
+#: src/blocks/block-notice/components/inspector.js:105
+msgid "Title Color"
+msgstr "Color del título"
+
+#: src/blocks/block-notice/components/inspector.js:87
+#: src/blocks/block-notice/components/inspector.js:94
+msgid "Notice Color"
+msgstr "Color de aviso"
+
+#: src/blocks/block-notice/components/inspector.js:80
+msgid "Do you want the message to always show or dismissable?"
+msgstr "¿Quieres que el mensaje se quede siempre o que se pueda rechazar?"
+
+#: src/blocks/block-notice/components/inspector.js:79
+msgid "Notice Display"
+msgstr "Mostrar aviso"
+
+#: src/blocks/block-testimonial/components/inspector.js:67
+#: src/blocks/block-accordion/components/inspector.js:43
+#: src/blocks/block-author-profile/components/inspector.js:67
+#: src/blocks/block-notice/components/inspector.js:70
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: src/blocks/block-notice/components/inspector.js:42
+msgid "Dismissable"
+msgstr "Descartable"
+
+#: src/blocks/block-notice/components/inspector.js:41
+msgid "Always Show"
+msgstr "Mostrar Siempre"
+
+#: src/blocks/block-sharing/index.js:48
+#: src/blocks/block-testimonial/index.js:171
+#: src/blocks/block-accordion/index.js:115
+#: src/blocks/block-drop-cap/index.js:87 src/blocks/block-cta/index.js:298
+#: src/blocks/block-container/index.js:192 src/blocks/block-button/index.js:117
+#: src/blocks/block-author-profile/index.js:263
+#: src/blocks/block-notice/index.js:137 src/blocks/block-post-grid/index.js:38
+#: src/blocks/block-spacer/index.js:97
+msgid "atomic"
+msgstr "atomic"
+
+#: src/blocks/block-notice/index.js:136
+msgid "message"
+msgstr "mensaje"
+
+#: src/blocks/block-notice/index.js:135
+msgid "notice"
+msgstr "aviso"
+
+#: src/blocks/block-notice/index.js:131
+msgid "Add a stylized text notice."
+msgstr "Añade un aviso de texto estilizado."
+
+#: src/blocks/block-notice/index.js:130
+msgid "AB Notice"
+msgstr "AB Aviso"
+
+#: src/blocks/block-notice/index.js:113
+msgid "Add notice text..."
+msgstr "Añade el texto de aviso..."
+
+#: src/blocks/block-notice/index.js:98
+msgid "Notice Title"
+msgstr "Titulo del aviso"
+
+#: dist/getting-started/getting-started.php:408
+#: src/blocks/block-sharing/components/inspector.js:89
+#: src/blocks/block-author-profile/components/social.js:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: dist/getting-started/getting-started.php:407
+msgid "Docs"
+msgstr "Documentos"
+
+#: dist/getting-started/getting-started.php:406
+msgid "Blog"
+msgstr "Blog"
+
+#: dist/getting-started/getting-started.php:405
+msgid "AtomicBlocks.com"
+msgstr "AtomicBlocks.com"
+
+#: dist/getting-started/getting-started.php:403
+msgid "Made by the fine folks at %1$s and %2$s."
+msgstr "Hecho por la buena gente de %1$s y %2$s."
+
+#: dist/getting-started/getting-started.php:398
+msgid "Visit Gutenberg News"
+msgstr "Visita Gutenberg News"
+
+#: dist/getting-started/getting-started.php:397
+msgid "Stay up to date with the new WordPress editor. Gutenberg News curates Gutenberg articles, tutorials, videos and more free resources."
+msgstr "Mantente al día con el nuevo editor de WordPress. Gutenberg News selecciona artículos, tutoriales, vídeos y otros recursos gratuitos de Gutenberg."
+
+#: dist/getting-started/getting-started.php:396
+msgid "Gutenberg News"
+msgstr "Gutenberg News"
+
+#: dist/getting-started/getting-started.php:391
+msgid "Visit the Blog"
+msgstr "Visita el blog"
+
+#: dist/getting-started/getting-started.php:389
+msgid "Articles & Tutorials"
+msgstr "Artículos y tutoriales"
+
+#: dist/getting-started/getting-started.php:384
+msgid "Subscribe Today"
+msgstr "Suscríbete"
+
+#: dist/getting-started/getting-started.php:382
+msgid "Blocks In Your Inbox"
+msgstr "Bloques en tu bandeja de entrada"
+
+#: dist/getting-started/getting-started.php:377
+msgid "Free Blocks and Resources"
+msgstr "Bloques y recursos gratuitos"
+
+#: dist/getting-started/getting-started.php:337
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: dist/getting-started/getting-started.php:229
+msgid "Add an adjustable spacer between your blocks with an optional divider with styling options."
+msgstr "Añade un espaciador ajustable entre tus bloques con un divisor opcional con opciones de estilo."
+
+#: dist/getting-started/getting-started.php:228
+msgid "Spacer & Divider"
+msgstr "Espaciador y divisor"
+
+#: dist/getting-started/getting-started.php:226
+msgid "Spacer and Divider Block"
+msgstr "Bloque separador y divisor"
+
+#: dist/getting-started/getting-started.php:221
+msgid "Add a stylized drop cap to the beginning of your paragraph. Choose from three different styles."
+msgstr "Añade una letra capitular estilizada al principio de tu párrafo. Elige entre tres estilos diferentes."
+
+#: dist/getting-started/getting-started.php:218
+#: dist/getting-started/getting-started.php:220
+msgid "Drop Cap Block"
+msgstr "Bloque capitular"
+
+#: dist/getting-started/getting-started.php:213
+msgid "Add a fancy stylized button to your post or page with size, shape, target, and color options."
+msgstr "Añade un botón estilizado y elegante a tu entrada o página con opciones de tamaño, forma, destino y color."
+
+#: dist/getting-started/getting-started.php:212
+msgid "Customizable Button"
+msgstr "Botón personalizable"
+
+#: dist/getting-started/getting-started.php:210
+msgid "Customizable Button Block"
+msgstr "Bloque de botón personalizable"
+
+#: dist/getting-started/getting-started.php:205
+msgid "Add an accordion text toggle with a title and descriptive text. Includes font size and toggle options."
+msgstr "Añade un texto de acordeón con un título y un texto descriptivo. Incluye opciones de tamaño de fuente y comportamiento."
+
+#: dist/getting-started/getting-started.php:204
+msgid "Accordion Block"
+msgstr "Bloque de accordeón"
+
+#: dist/getting-started/getting-started.php:202
+msgid "Accordion Toggle"
+msgstr "Alternar acordeón"
+
+#: dist/getting-started/getting-started.php:197
+msgid "Add a user profile box to your site with a title, bio info, an avatar and social media links."
+msgstr "Añade un cuadro de perfil de usuario a tu sitio con un título, información biográfica, un avatar y enlaces a redes sociales."
+
+#: dist/getting-started/getting-started.php:194
+#: dist/getting-started/getting-started.php:196
+msgid "Author Profile Block"
+msgstr "Bloque de perfil de autor"
+
+#: dist/getting-started/getting-started.php:189
+msgid "Add social sharing icons to your page with size, shape, color and style options."
+msgstr "Añade iconos para compartir en redes sociales a tu página con opciones de tamaño, forma, color y estilo."
+
+#: dist/getting-started/getting-started.php:186
+#: dist/getting-started/getting-started.php:188
+msgid "Sharing Icons Block"
+msgstr "Bloque de iconos para compartir"
+
+#: dist/getting-started/getting-started.php:181
+msgid "Add a colorful notice or message to your site with text, a title and a dismiss icon."
+msgstr "Añade un aviso o mensaje colorido a tu sitio con texto, un título y un icono para descartarlo."
+
+#: dist/getting-started/getting-started.php:180
+msgid "Inline Notice Block"
+msgstr "Bloque de aviso en línea"
+
+#: dist/getting-started/getting-started.php:178
+msgid "Inline Notices Block"
+msgstr "Bloque de avisos en línea"
+
+#: dist/getting-started/getting-started.php:173
+msgid "Add a customer or client testimonial to your site with an avatar, text, citation and more."
+msgstr "Añade un cliente o testimonio de un cliente a tu sitio con un avatar, texto, cita y más."
+
+#: dist/getting-started/getting-started.php:172
+msgid "Testimonial Block"
+msgstr "Bloque de recomendaciones"
+
+#: dist/getting-started/getting-started.php:170
+msgid "Testimonials Block"
+msgstr "Bloque de testimonios"
+
+#: dist/getting-started/getting-started.php:164
+msgid "Call-To-Action Block"
+msgstr "Bloque de llamada a la acción"
+
+#: dist/getting-started/getting-started.php:162
+msgid "Call To Action Block"
+msgstr "Bloque de llamada a la acción"
+
+#: dist/getting-started/getting-started.php:157
+msgid "Wrap several blocks into a section and add padding, margins, background colors and images."
+msgstr "Envuelve varios bloques en una sección y añade margen interior, márgenes, colores de fondo e imágenes."
+
+#: dist/getting-started/getting-started.php:156
+msgid "Container Block"
+msgstr "Bloque contenedor"
+
+#: dist/getting-started/getting-started.php:149
+#: dist/getting-started/getting-started.php:165
+msgid "Add an eye-catching, full-width section with a big title, paragraph text, and a customizable button."
+msgstr "Añade una llamativa sección de ancho completo con un título grande, texto de párrafo y un botón personalizable."
+
+#: dist/getting-started/getting-started.php:148
+msgid "Post Grid Block"
+msgstr "Bloque de cuadrícula de entradas"
+
+#: dist/getting-started/getting-started.php:142
+msgid "The following blocks are available in Atomic Blocks. More blocks are on the way so stay tuned!"
+msgstr "¡Los siguientes bloques están disponibles en Atomic Blocks. ¡Hay más bloques están en camino, así que permanece atento!"
+
+#: dist/getting-started/getting-started.php:141
+msgid "Available Atomic Blocks"
+msgstr "Atomic Blocks disponibles"
+
+#: dist/getting-started/getting-started.php:134
+msgid "Atomic Blocks Theme"
+msgstr "Tema Atomic Blocks"
+
+#: dist/getting-started/getting-started.php:129
+msgid "The Atomic Blocks collection is now ready to use in your posts and pages. Simply search for \"atomic\" or \"ab\" in the block inserter to display the Atomic Blocks collection. Check out the help file link above for detailed instructions!"
+msgstr "La colección de Atomic Blocks ya está lista para ser utilizada en tus entradas y páginas. Simplemente busca \"atomic\" o \"ab\" en el insertador de bloques para mostrar la colección de Atomic Blocks. ¡Echa un vistazo al enlace del archivo de ayuda de arriba para obtener instrucciones detalladas!"
+
+#: dist/getting-started/getting-started.php:128
+msgid "Welcome to the future of site building with Gutenberg and Atomic Blocks!"
+msgstr "¡Bienvenido al futuro de la construcción sitios con Gutenberg y Atomic Blocks!"
+
+#: dist/getting-started/getting-started.php:114
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: src/blocks/block-post-grid/index.php:70
+msgid "Untitled"
+msgstr "Sin título"
+
+#: src/blocks/block-sharing/index.php:238 src/blocks/block-sharing/index.js:165
+msgid "Share via Email"
+msgstr "Compartir por correo electrónico"
+
+#: src/blocks/block-sharing/index.php:223
+msgid "Share on Reddit"
+msgstr "Compartir en Reddit"
+
+#: src/blocks/block-sharing/index.php:207 src/blocks/block-sharing/index.js:143
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: src/blocks/block-sharing/index.php:191 src/blocks/block-sharing/index.js:132
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: src/blocks/block-sharing/index.php:175 src/blocks/block-sharing/index.js:121
+msgid "Share on Google"
+msgstr "Compartir en Google"
+
+#: src/blocks/block-sharing/index.php:159 src/blocks/block-sharing/index.js:110
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: src/blocks/block-sharing/index.php:143 src/blocks/block-sharing/index.js:99
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: dist/getting-started/getting-started.php:328
+msgid "Free Theme Download"
+msgstr "Descarga gratuita del tema"
+
+#: dist/getting-started/getting-started.php:352
+#: dist/getting-started/getting-started.php:383
+msgid "Join the newsletter to receive emails when we add new blocks, release plugin and theme updates, send out free resources, and more!"
+msgstr "Suscríbete al boletín para recibir correos electrónicos cuando añadamos nuevos bloques, publiquemos actualizaciones de plugins y temas, enviemos recursos gratuitos ¡y mucho más!"
+
+#: dist/getting-started/getting-started.php:308
+msgid "Atomic Blocks adds several handy content blocks to the Gutenberg block editor."
+msgstr "Atomic Blocks añade varios bloques de contenido útiles al editor de bloques de Gutenberg."
+
+#: dist/getting-started/getting-started.php:300
+#: dist/getting-started/getting-started.php:302
+#: dist/getting-started/getting-started.php:314
+#: dist/getting-started/getting-started.php:316
+msgid "Plugin activated!"
+msgstr "¡Plugin activado!"
+
+#: dist/getting-started/getting-started.php:294
+msgid "Gutenberg adds the new block-based editor to WordPress. You will need this to work with the Atomic Blocks plugin."
+msgstr "Gutenberg añade el nuevo editor basado en bloques a WordPress. Necesitarás esto para trabajar con el plugin de Atomic Blocks."
+
+#: dist/getting-started/getting-started.php:109
+#: dist/getting-started/getting-started.php:333
+msgid "Visit Atomic Blocks"
+msgstr "Visita Atomic Blocks"
+
+#. Description of the plugin
+msgid "A beautiful collection of handy Gutenberg blocks to help you get started with the new WordPress editor."
+msgstr "Una hermosa colección de prácticos bloques de Gutenberg para ayudarte a empezar con el nuevo editor de WordPress."
+
+#. Plugin Name of the plugin
+msgid "Atomic Blocks - Gutenberg Blocks Collection"
+msgstr "Atomic Blocks - Colección de bloques para Gutenberg"
+
+#. Author URI of the plugin
+msgid "http://arraythemes.com"
+msgstr "http://arraythemes.com"
+
+#. Author of the plugin
+msgid "atomicblocks"
+msgstr "atomicblocks"
+
+#. Plugin URI of the plugin
+msgid "https://atomicblocks.com"
+msgstr "https://atomicblocks.com"
+
+#: dist/getting-started/getting-started.php:369
+msgid "Visit AtomicBlocks.com"
+msgstr "Visita AtomicBlocks.com"
+
+#: dist/getting-started/getting-started.php:368
+#: dist/getting-started/getting-started.php:390
+msgid "Check out the Atomic Blocks site to find block editor tutorials, free blocks and updates about the Atomic Blocks plugin and theme!"
+msgstr "Visita el sitio de Atomic Blocks para encontrar tutoriales de edición de bloques, bloques gratuitos y actualizaciones sobre el plugin y el tema de Atomic Blocks."
+
+#: dist/getting-started/getting-started.php:363
+msgid "Free Blocks & Tutorials"
+msgstr "Bloques y Tutoriales gratis"
+
+#: dist/getting-started/getting-started.php:354
+msgid "Subscribe Now"
+msgstr "Suscríbete"
+
+#: dist/getting-started/getting-started.php:347
+msgid "Stay Updated"
+msgstr "Mantente al día"
+
+#: dist/getting-started/getting-started.php:335
+msgid "Download our FREE Atomic Blocks theme to help you get started with the Atomic Blocks plugin and the new WordPress block editor."
+msgstr "Descarga nuestro tema GRATUITO Atomic Blocks para ayudarte a comenzar con el plugin Atomic Blocks y el nuevo editor de bloques de WordPress."
+
+#: dist/getting-started/getting-started.php:311
+msgid "Install Atomic Blocks now"
+msgstr "Instalar Atomic Blocks"
+
+#: dist/getting-started/getting-started.php:307
+msgid "2. Install the Atomic Blocks plugin."
+msgstr "2. Instala el plugin de Atomic Blocks."
+
+#: dist/getting-started/getting-started.php:297
+msgid "Install Gutenberg now"
+msgstr "Instalar Gutenberg"
+
+#: dist/getting-started/getting-started.php:293
+msgid "1. Install the Gutenberg plugin."
+msgstr "1. Instala el plugin de Gutenberg."
+
+#: dist/getting-started/getting-started.php:288
+msgid "Quick Start Checklist"
+msgstr "Lista de control de inicio rápido"
+
+#: dist/getting-started/getting-started.php:249
+#: dist/getting-started/getting-started.php:272
+msgid "This help file feed seems to be temporarily down. You can always view the help file on the Atomic Blocks site in the meantime."
+msgstr "Este archivo de ayuda parece estar temporalmente caído. Mientras tanto puedes ver el archivo de ayuda en el sitio de Atomic Blocks."
+
+#: dist/getting-started/getting-started.php:117
+msgid "Theme Help File"
+msgstr "Archivo de ayuda del tema"
+
+#: dist/getting-started/getting-started.php:115
+msgid "Plugin Help File"
+msgstr "Archivo de ayuda del plugin"
+
+#: dist/getting-started/getting-started.php:110
+msgid "Getting started with"
+msgstr "Primeros pasos con"
+
+#: dist/init.php:103 dist/getting-started/getting-started.php:49
+#: dist/getting-started/getting-started.php:50
+#: dist/getting-started/getting-started.php:110
+msgid "Atomic Blocks"
+msgstr "Atomic Blocks"
+
+#: dist/custom-post-types/testimonials.php:100
+msgid "Testimonial Category"
+msgstr "Categoría de testimonio"
+
+#: dist/custom-post-types/testimonials.php:99
+msgid "Testimonial Categories"
+msgstr "Categorías de testimonio"
+
+#: dist/custom-post-types/testimonials.php:66
+msgid "No testimonials found in trash"
+msgstr "No se encontraron testimonios en la papelera"
+
+#: dist/custom-post-types/testimonials.php:65
+msgid "No testimonials found"
+msgstr "No se encontraron testimonios"
+
+#: dist/custom-post-types/testimonials.php:64
+msgid "Search Testimonials"
+msgstr "Buscar testimonios"
+
+#: dist/custom-post-types/testimonials.php:63
+msgid "View Testimonial"
+msgstr "Ver testimonio"
+
+#: dist/custom-post-types/testimonials.php:62
+msgid "New Testimonial"
+msgstr "Nuevo testimonio"
+
+#: dist/custom-post-types/testimonials.php:61
+msgid "Edit Testimonial"
+msgstr "Editar testimonio"
+
+#: dist/custom-post-types/testimonials.php:60
+msgid "Add New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: dist/custom-post-types/testimonials.php:56
+#: dist/custom-post-types/testimonials.php:58
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: dist/custom-post-types/testimonials.php:55
+#: dist/custom-post-types/testimonials.php:57
+#: dist/custom-post-types/testimonials.php:67
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: dist/custom-post-types/team-members.php:100
+msgid "Team Member Category"
+msgstr "Categoría de miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:99
+msgid "Team Member Categories"
+msgstr "Categorías de miembros de equipo"
+
+#: dist/custom-post-types/team-members.php:66
+msgid "No team members found in trash"
+msgstr "No se encontró ningún miembro del equipo en la papelera"
+
+#: dist/custom-post-types/team-members.php:65
+msgid "No team members found"
+msgstr "No se ha encontrado ningún miembro del equipo"
+
+#: dist/custom-post-types/team-members.php:64
+msgid "Search Team Members"
+msgstr "Buscar miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:63
+msgid "View Team Member"
+msgstr "Ver miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:62
+msgid "New Team Member"
+msgstr "Nuevo miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:61
+msgid "Edit Team Member"
+msgstr "Editar miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:60
+msgid "Add New Team Member"
+msgstr "Añadir nuevo miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:56
+msgid "Team Member"
+msgstr "Miembro de equipo"
+
+#: dist/custom-post-types/team-members.php:55
+#: dist/custom-post-types/team-members.php:57
+#: dist/custom-post-types/team-members.php:58
+#: dist/custom-post-types/team-members.php:67
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: dist/custom-post-types/pricing-tables.php:112
+#: dist/custom-post-types/team-members.php:112
+#: dist/custom-post-types/testimonials.php:112
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: dist/custom-post-types/pricing-tables.php:111
+#: dist/custom-post-types/team-members.php:111
+#: dist/custom-post-types/testimonials.php:111
+msgid "Parent Category"
+msgstr "Categoría Madre"
+
+#: dist/custom-post-types/pricing-tables.php:110
+#: dist/custom-post-types/team-members.php:110
+#: dist/custom-post-types/testimonials.php:110
+msgid "New Category Name"
+msgstr "Nombre de la nueva categoría"
+
+#: dist/custom-post-types/pricing-tables.php:109
+#: dist/custom-post-types/team-members.php:109
+#: dist/custom-post-types/testimonials.php:109
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: dist/custom-post-types/pricing-tables.php:108
+#: dist/custom-post-types/team-members.php:108
+#: dist/custom-post-types/testimonials.php:108
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: dist/custom-post-types/pricing-tables.php:107
+#: dist/custom-post-types/team-members.php:107
+#: dist/custom-post-types/testimonials.php:107
+msgid "View Category"
+msgstr "Ver categoría"
+
+#: dist/custom-post-types/pricing-tables.php:106
+#: dist/custom-post-types/team-members.php:106
+#: dist/custom-post-types/testimonials.php:106
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: dist/custom-post-types/pricing-tables.php:105
+#: dist/custom-post-types/team-members.php:105
+#: dist/custom-post-types/testimonials.php:105
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: dist/custom-post-types/pricing-tables.php:104
+#: dist/custom-post-types/team-members.php:104
+#: dist/custom-post-types/testimonials.php:104
+msgid "Popular Categories"
+msgstr "Categorías populares"
+
+#: dist/custom-post-types/pricing-tables.php:103
+#: dist/custom-post-types/team-members.php:103
+#: dist/custom-post-types/testimonials.php:103
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: dist/custom-post-types/pricing-tables.php:102
+#: dist/custom-post-types/team-members.php:102
+#: dist/custom-post-types/testimonials.php:102
+msgid "Category"
+msgstr "Categoría"
+
+#: dist/custom-post-types/pricing-tables.php:101
+#: dist/custom-post-types/team-members.php:101
+#: dist/custom-post-types/testimonials.php:101
+msgid "Categories"
+msgstr "Categorías"
+
+#: dist/custom-post-types/pricing-tables.php:100
+msgid "Pricing Table Category"
+msgstr "Categoría de tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:99
+msgid "Pricing Tables Categories"
+msgstr "Categorías de tablas de precios"
+
+#: dist/custom-post-types/pricing-tables.php:66
+msgid "No pricing tables found in trash"
+msgstr "No se han encontrado tablas de precios en la papelera"
+
+#: dist/custom-post-types/pricing-tables.php:65
+msgid "No pricing tables found"
+msgstr "No se han encontrado tablas de precios"
+
+#: dist/custom-post-types/pricing-tables.php:64
+msgid "Search Pricing Tables"
+msgstr "Buscar precios de tablas"
+
+#: dist/custom-post-types/pricing-tables.php:63
+msgid "View Pricing Table"
+msgstr "Ver tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:62
+msgid "New Pricing Table"
+msgstr "Nueva tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:61
+msgid "Edit Pricing Table"
+msgstr "Editar tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:60
+msgid "Add New Pricing Table"
+msgstr "Añadir nueva tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:59
+#: dist/custom-post-types/team-members.php:59
+#: dist/custom-post-types/testimonials.php:59
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: dist/custom-post-types/pricing-tables.php:58
+msgid "Pricing"
+msgstr "Precios"
+
+#: dist/custom-post-types/pricing-tables.php:56
+msgid "Pricing Table"
+msgstr "Tabla de precios"
+
+#: dist/custom-post-types/pricing-tables.php:55
+#: dist/custom-post-types/pricing-tables.php:57
+#: dist/custom-post-types/pricing-tables.php:67
+msgid "Pricing Tables"
+msgstr "Tablas de precios"

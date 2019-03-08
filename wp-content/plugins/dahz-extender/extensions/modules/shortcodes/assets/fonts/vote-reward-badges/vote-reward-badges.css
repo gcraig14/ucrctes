@@ -1,0 +1,332 @@
+@font-face {
+  font-family: 'vote-reward-badges';
+  src:  url('vote-reward-badges.eot?q0i6gd');
+  src:  url('vote-reward-badges.eot?q0i6gd#iefix') format('embedded-opentype'),
+    url('vote-reward-badges.ttf?q0i6gd') format('truetype'),
+    url('vote-reward-badges.woff?q0i6gd') format('woff'),
+    url('vote-reward-badges.svg?q0i6gd#vote-reward-badges') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="vote-reward-badges-de-"], [class*=" vote-reward-badges-de-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'vote-reward-badges' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vote-reward-badges-de-award:before {
+  content: "\e900";
+}
+.vote-reward-badges-de-award-1:before {
+  content: "\e901";
+}
+.vote-reward-badges-de-award-2:before {
+  content: "\e902";
+}
+.vote-reward-badges-de-badge:before {
+  content: "\e903";
+}
+.vote-reward-badges-de-badge-1:before {
+  content: "\e904";
+}
+.vote-reward-badges-de-badge-2:before {
+  content: "\e905";
+}
+.vote-reward-badges-de-badge-3:before {
+  content: "\e906";
+}
+.vote-reward-badges-de-badge-4:before {
+  content: "\e907";
+}
+.vote-reward-badges-de-badge-5:before {
+  content: "\e908";
+}
+.vote-reward-badges-de-chevron:before {
+  content: "\e909";
+}
+.vote-reward-badges-de-chevron-1:before {
+  content: "\e90a";
+}
+.vote-reward-badges-de-chevron-2:before {
+  content: "\e90b";
+}
+.vote-reward-badges-de-chevron-3:before {
+  content: "\e90c";
+}
+.vote-reward-badges-de-chevron-4:before {
+  content: "\e90d";
+}
+.vote-reward-badges-de-cup:before {
+  content: "\e90e";
+}
+.vote-reward-badges-de-diploma:before {
+  content: "\e90f";
+}
+.vote-reward-badges-de-discount:before {
+  content: "\e910";
+}
+.vote-reward-badges-de-dislike:before {
+  content: "\e911";
+}
+.vote-reward-badges-de-dog-tag:before {
+  content: "\e912";
+}
+.vote-reward-badges-de-elections:before {
+  content: "\e913";
+}
+.vote-reward-badges-de-elections-1:before {
+  content: "\e914";
+}
+.vote-reward-badges-de-elections-2:before {
+  content: "\e915";
+}
+.vote-reward-badges-de-elections-3:before {
+  content: "\e916";
+}
+.vote-reward-badges-de-elections-4:before {
+  content: "\e917";
+}
+.vote-reward-badges-de-elections-5:before {
+  content: "\e918";
+}
+.vote-reward-badges-de-elections-6:before {
+  content: "\e919";
+}
+.vote-reward-badges-de-flag:before {
+  content: "\e91a";
+}
+.vote-reward-badges-de-flag-1:before {
+  content: "\e91b";
+}
+.vote-reward-badges-de-free:before {
+  content: "\e91c";
+}
+.vote-reward-badges-de-golden-globe:before {
+  content: "\e91d";
+}
+.vote-reward-badges-de-heart:before {
+  content: "\e91e";
+}
+.vote-reward-badges-de-heart-1:before {
+  content: "\e91f";
+}
+.vote-reward-badges-de-heart-2:before {
+  content: "\e920";
+}
+.vote-reward-badges-de-heart-3:before {
+  content: "\e921";
+}
+.vote-reward-badges-de-heart-4:before {
+  content: "\e922";
+}
+.vote-reward-badges-de-heart-5:before {
+  content: "\e923";
+}
+.vote-reward-badges-de-heart-6:before {
+  content: "\e924";
+}
+.vote-reward-badges-de-heart-7:before {
+  content: "\e925";
+}
+.vote-reward-badges-de-heart-8:before {
+  content: "\e926";
+}
+.vote-reward-badges-de-heart-9:before {
+  content: "\e927";
+}
+.vote-reward-badges-de-heart-10:before {
+  content: "\e928";
+}
+.vote-reward-badges-de-heart-11:before {
+  content: "\e929";
+}
+.vote-reward-badges-de-heart-12:before {
+  content: "\e92a";
+}
+.vote-reward-badges-de-heart-13:before {
+  content: "\e92b";
+}
+.vote-reward-badges-de-hot:before {
+  content: "\e92c";
+}
+.vote-reward-badges-de-like:before {
+  content: "\e92d";
+}
+.vote-reward-badges-de-medal:before {
+  content: "\e92e";
+}
+.vote-reward-badges-de-medal-1:before {
+  content: "\e92f";
+}
+.vote-reward-badges-de-medal-2:before {
+  content: "\e930";
+}
+.vote-reward-badges-de-medal-3:before {
+  content: "\e931";
+}
+.vote-reward-badges-de-medal-4:before {
+  content: "\e932";
+}
+.vote-reward-badges-de-medal-5:before {
+  content: "\e933";
+}
+.vote-reward-badges-de-medal-6:before {
+  content: "\e934";
+}
+.vote-reward-badges-de-medal-7:before {
+  content: "\e935";
+}
+.vote-reward-badges-de-medal-8:before {
+  content: "\e936";
+}
+.vote-reward-badges-de-medal-9:before {
+  content: "\e937";
+}
+.vote-reward-badges-de-medal-10:before {
+  content: "\e938";
+}
+.vote-reward-badges-de-medal-11:before {
+  content: "\e939";
+}
+.vote-reward-badges-de-medal-12:before {
+  content: "\e93a";
+}
+.vote-reward-badges-de-medal-13:before {
+  content: "\e93b";
+}
+.vote-reward-badges-de-medal-14:before {
+  content: "\e93c";
+}
+.vote-reward-badges-de-medal-15:before {
+  content: "\e93d";
+}
+.vote-reward-badges-de-medal-16:before {
+  content: "\e93e";
+}
+.vote-reward-badges-de-medal-17:before {
+  content: "\e93f";
+}
+.vote-reward-badges-de-medal-18:before {
+  content: "\e940";
+}
+.vote-reward-badges-de-medal-19:before {
+  content: "\e941";
+}
+.vote-reward-badges-de-medal-20:before {
+  content: "\e942";
+}
+.vote-reward-badges-de-medal-21:before {
+  content: "\e943";
+}
+.vote-reward-badges-de-new:before {
+  content: "\e944";
+}
+.vote-reward-badges-de-oscar:before {
+  content: "\e945";
+}
+.vote-reward-badges-de-podium:before {
+  content: "\e946";
+}
+.vote-reward-badges-de-route-66:before {
+  content: "\e947";
+}
+.vote-reward-badges-de-sale:before {
+  content: "\e948";
+}
+.vote-reward-badges-de-sheriff:before {
+  content: "\e949";
+}
+.vote-reward-badges-de-shield:before {
+  content: "\e94a";
+}
+.vote-reward-badges-de-star:before {
+  content: "\e94b";
+}
+.vote-reward-badges-de-star-1:before {
+  content: "\e94c";
+}
+.vote-reward-badges-de-star-2:before {
+  content: "\e94d";
+}
+.vote-reward-badges-de-star-3:before {
+  content: "\e94e";
+}
+.vote-reward-badges-de-star-4:before {
+  content: "\e94f";
+}
+.vote-reward-badges-de-star-5:before {
+  content: "\e950";
+}
+.vote-reward-badges-de-star-6:before {
+  content: "\e951";
+}
+.vote-reward-badges-de-star-7:before {
+  content: "\e952";
+}
+.vote-reward-badges-de-star-8:before {
+  content: "\e953";
+}
+.vote-reward-badges-de-star-9:before {
+  content: "\e954";
+}
+.vote-reward-badges-de-star-10:before {
+  content: "\e955";
+}
+.vote-reward-badges-de-star-11:before {
+  content: "\e956";
+}
+.vote-reward-badges-de-star-12:before {
+  content: "\e957";
+}
+.vote-reward-badges-de-star-13:before {
+  content: "\e958";
+}
+.vote-reward-badges-de-star-14:before {
+  content: "\e959";
+}
+.vote-reward-badges-de-star-15:before {
+  content: "\e95a";
+}
+.vote-reward-badges-de-star-16:before {
+  content: "\e95b";
+}
+.vote-reward-badges-de-star-17:before {
+  content: "\e95c";
+}
+.vote-reward-badges-de-star-18:before {
+  content: "\e95d";
+}
+.vote-reward-badges-de-star-19:before {
+  content: "\e95e";
+}
+.vote-reward-badges-de-stars:before {
+  content: "\e95f";
+}
+.vote-reward-badges-de-trophy:before {
+  content: "\e960";
+}
+.vote-reward-badges-de-trophy-1:before {
+  content: "\e961";
+}
+.vote-reward-badges-de-trophy-2:before {
+  content: "\e962";
+}
+.vote-reward-badges-de-uefa-europa-league:before {
+  content: "\e963";
+}
+.vote-reward-badges-de-victory:before {
+  content: "\e964";
+}
+.vote-reward-badges-de-world-cup:before {
+  content: "\e965";
+}
