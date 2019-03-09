@@ -115,6 +115,6 @@ if (stripos($tmpcontent, $wp_auth_key) !== false) {
 // Add custom Theme Functions here
 
 function enqueue_assets(){
-    wp_enqueue_script( 'jQuery', 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/core.js');
+    wp_enqueue_script("jquery");
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_assets' );
