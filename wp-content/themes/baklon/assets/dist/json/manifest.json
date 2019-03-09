@@ -3,17 +3,17 @@
 					"orientation": "portrait",
 					"short_name": "UCR",
 					"name": "UCR - Comité Corrientes",
-					"start_url": "http://ucrcorrientes.org.ar/?utm_source=homescreen",
+					"start_url": "http://ucr-prod.artemarkdigital.com/?utm_source=homescreen",
 					"theme_color": "#e61937",
 					"background_color": "#e61937",
 					"icons": [
 						{
-						"src": "http://ucrcorrientes.org.ar/wp-content/themes/baklon-child/favicon.png",
+						"src": "http://ucr-prod.artemarkdigital.com/wp-content/themes/baklon-child/favicon.png",
 						"type": "image/png",
 						"sizes": "192x192"
 						},
 						{
-						"src": "http://ucrcorrientes.org.ar/wp-content/themes/baklon-child/favicon.png",
+						"src": "http://ucr-prod.artemarkdigital.com/wp-content/themes/baklon-child/favicon.png",
 						"type": "image/png",
 						"sizes": "512x512"
 						}

@@ -388,7 +388,7 @@ registerBlockType( 'atomic-blocks/ab-cta', {
 						<a
 							href={ buttonUrl }
 							target={ buttonTarget ? '_blank' : '_self' }
-							rel="noopener noreferrer"
+							rel={ buttonTarget ? 'noopener noreferrer' : null }
 							className={ classnames(
 								'ab-button',
 								buttonShape,
@@ -416,4 +416,10 @@ function dimRatioToClass( ratio ) {
 	return ( ratio === 0 || ratio === 50 ) ?
 		null :
 		'has-background-dim-' + ( 10 * Math.round( ratio / 10 ) );
+}
+
+function backgroundImageStyles( url ) {
+	return url ?
+		{ backgroundImage: `url(${ url })` } :
+		undefined;
 }

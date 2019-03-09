@@ -57,10 +57,8 @@ class Tribe__Process__Tester extends Tribe__Process__Handler {
 	 * This is the same code as the base WP_Background_Process class.
 	 *
 	 * @since 4.7.23
-	 *
-	 * @param null|array $data_source An optional data source.
 	 */
-	public function maybe_handle( $data_source = null ) {
+	public function maybe_handle() {
 		// Don't lock up other requests while processing
 		session_write_close();
 
